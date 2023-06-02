@@ -14,6 +14,8 @@ public class One {
 	arr1[3]=arr1[4];
 	arr1[4]=0;
 	System.out.println(Arrays.toString(arr1));
+	arr1[4]=6;
+	System.out.println(Arrays.toString(arr1));
 	
 
 
