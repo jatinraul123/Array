@@ -7,7 +7,7 @@ public static void main(String[] args) {
 		System.out.println("EVEN number");
 		
 	} else {
-		System.out.println("ODD");
+		System.out.println("ODD number");
 
 	}
 }
